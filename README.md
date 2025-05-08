@@ -2,7 +2,7 @@
 
 I'm Sikander Shan, a web developer who enjoys building simple, responsive websites and web apps.
 
-- 🔧 I work with **HTML**, **CSS**, **JavaScript**, and **React**  
+- 🔧 I am working as  with Web Developer and **React**  
 - 🌱 Currently learning more about **backend development**  
 - 💡 I enjoy solving problems and learning new technologies  
 - 📫 Reach me at:  sikandershanwebd@gmail.com
